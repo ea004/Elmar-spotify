@@ -1,4 +1,5 @@
-# YouTube Viewing History Insights
+# YouTube Viewing History Insights (CS210 Project)
+# Made by Elmar Alasgarov(30407)
 
 ## Introduction
 
