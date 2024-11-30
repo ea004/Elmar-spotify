@@ -1,4 +1,4 @@
-# YouTube Viewing History Insights (CS210 Project)
+# YouTube Viewing History Insights (DSA210 Project)
 # Made by Elmar Alasgarov(30407)
 
 ## Introduction
