@@ -1,6 +1,0 @@
-pandas
-lxml
-jupyter
-matplotlib
-seaborn
-python-dotenv
